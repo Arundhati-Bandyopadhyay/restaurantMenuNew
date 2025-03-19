@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* In your CSS file (e.g., input.css): */
+.lightblue-menu {
+    background-color: lightblue; /* Or any shade of light blue you prefer */
+    color: black; /* Text color - adjust as needed for contrast */
+}
+
+.lightblue-menu li a {
+    padding: 8px 12px;
+    display: block;
+    text-decoration: none;
+    color: inherit; /* Inherit text color from parent */
+}
+
+.lightblue-menu li:hover {
+    background-color: #e0f2f7; /* A slightly lighter blue on hover - Example*/
+}
+
+

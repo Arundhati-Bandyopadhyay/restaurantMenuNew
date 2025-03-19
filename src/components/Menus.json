@@ -1,0 +1,37 @@
+
+[
+    {
+      "category": "Appetizers",
+      "items": [
+        { "name": "Spring Rolls", "price": 8.99 },
+        { "name": "Chicken Wings", "price": 12.99 },
+        { "name": "Bruschetta", "price": 7.49 }
+      ]
+    },
+    {
+      "category": "Main Courses",
+      "items": [
+        { "name": "Steak Frites", "price": 24.99 },
+        { "name": "Pasta Carbonara", "price": 18.99 },
+        { "name": "Salmon with Roasted Vegetables", "price": 21.99 },
+        { "name": "Vegetarian Curry", "price": 16.99 }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        { "name": "Chocolate Cake", "price": 6.99 },
+        { "name": "Ice Cream Sundae", "price": 5.99 },
+        { "name": "Tiramisu", "price": 9.49 }
+      ]
+    },
+      {
+      "category": "Drinks",
+      "items": [
+        { "name": "Coke", "price": 2.99 },
+        { "name": "Sprite", "price": 2.99 },
+        { "name": "Juice", "price": 3.99 },
+        { "name": "Coffee", "price": 2.49 }
+      ]
+    }
+  ]
